@@ -3,7 +3,7 @@ import { getFirestore } from "firebase/firestore"; // Importing the function to 
 
 // Firebase configuration object containing keys and identifiers for your app
 const firebaseConfig = {
-  apiKey: "AIzaSyB7314t_UrZF9MJDwf5sXintjxQcqA6iw8", // API key for accessing Firebase services
+  apiKey: "", // API key for accessing Firebase services
   authDomain: "inventory-management-90901.firebaseapp.com", // Domain for Firebase authentication
   projectId: "inventory-management-90901", // Unique identifier for your Firebase project
   storageBucket: "inventory-management-90901.appspot.com", // Cloud storage bucket URL
